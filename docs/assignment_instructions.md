@@ -95,4 +95,3 @@ Now, we will lead you through an exploration of just the bar related coupons.
 Independent Investigation
 
 Using the bar coupon example as motivation, you are to explore one of the other coupon groups and try to determine the characteristics of passengers who accept the coupons.
-End of extracted markdown content.
