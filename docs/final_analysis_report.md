@@ -143,6 +143,6 @@ Below are practical, prioritized tactics to increase redemption while reducing w
 ## Caveats and Data Limitations
 
 - Some subgroup cells have small sample sizes; percentages in those cells may be noisy and not generalizable.
-- The notebook used utility heuristics (e.g., dropping `car` column) that were appropriate for this dataset but may remove some signal in other contexts.
+- The analysis used utility heuristics (e.g., dropping `car` column) that were appropriate for this dataset but may remove some signal in other contexts.
 
 ---
