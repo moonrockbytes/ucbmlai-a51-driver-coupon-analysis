@@ -121,9 +121,7 @@ This report summarizes the findings, hypotheses, target-user profiles, and pract
 
 ---
 
-## Practical Recommendations for Targeted Marketing
-
-Below are practical, prioritized tactics to increase redemption while reducing wasted impressions.
+## Recommendations for Targeted Marketing
 
 1) Route-aware sending (high priority)
    - Only send location/reachability-based coupons when `direction_same == 1` (or predicted on-route). This increases redemption and reduces cost-per-redemption.
@@ -134,9 +132,6 @@ Below are practical, prioritized tactics to increase redemption while reducing w
 
 3) Demographic targeting (medium priority)
    - For bar coupons: target age ≥25, traveling without kids, and urban/office occupations. Use creative that highlights social occasions rather than family-friendly messaging.
-
-4) Value-personalization (medium priority)
-   - Tailor discount size to income and frequency segment: smaller discounts for frequent users, larger for price-sensitive low-frequency segments.
 
 ---
 
