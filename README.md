@@ -36,21 +36,8 @@ This repository analyzes a UCI survey dataset to understand which drivers are li
     
 Final Product depicting the findings that highlights the differences between customers who did and did not accept the coupons in available here: [Final Report](docs/final_analysis_report.md)
 
-Notebook
+**Notebook**
 - The full analysis is in the Jupyter notebook: `prompt.ipynb` (root). 
-
-Quick start
-1. Create a virtual environment (recommended):
-
-```bash
-# ucbmlai-a51-driver-coupon-analysis
-
-This repository contains an exploratory analysis of a survey-style dataset used to study drivers' likelihood of accepting time-limited coupons (restaurant, coffee house, bar, take-away, etc.). The project focuses on data cleaning, exploratory data analysis (EDA), visualizations, and straightforward subgroup analyses to surface factors correlated with coupon acceptance.
-
-**Quick Links**
-- **Assignment instructions:** `assignment_instructions.md`
-- **Data dictionary:** `coupons_data_dictionary.md`
-- **Notebook:** `prompt.ipynb` (root)
 
 **Quick Start**
 - **Create a virtual environment:**
@@ -59,7 +46,6 @@ This repository contains an exploratory analysis of a survey-style dataset used 
 python -m venv .venv
 source .venv/bin/activate
 ```
-
 - **Install required packages (minimal):**
 
 ```bash
